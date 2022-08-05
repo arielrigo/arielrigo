@@ -1,7 +1,7 @@
 ### Bem vindos ao meu GitHub
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando JavaScript,HTML5,CSS3
+- 🌱 Estudando Angular, MongoDB, Jest
 - 📫 Me contate no meu instagram @arielr.z ou no email arielrigozonta@gmail.com
 - ⚡ Amo fazer novas amizades e sou apaixonado por aprender coisas novas!
 
@@ -21,4 +21,5 @@
  <div>
   <a href="https://www.instagram.com/arielr.z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arielrigozonta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <i class="devicon-angularjs-plain colored"></i>
    </div
